@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xef68a81dccf28efeec42043dcd6bbd22701af4d0",
+  "SCAN_LINK": "https://e.mtv.ac/account.html?address=0xef68a81dccf28efeec42043dcd6bbd22701af4d0",
+  "NETWORK": {
+    "NAME": "Multivac",
+    "SYMBOL": "MTV",
+    "ID": 62621
+  },
+  "NFT_NAME": "MTV_Ghost",
+  "SYMBOL": "MTG",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 200000000000000000000,
+  "DISPLAY_COST": 200,
+  "GAS_LIMIT": 285000,
+  
+  "SHOW_BACKGROUND": true
+}
